@@ -1,0 +1,5 @@
+It is desired to make a program in which the employees and students of a school are registered.
+1- Employees have name, address, school, salary and Member Type (Enum: Student, Employee).
+2- Students have name, address, School, fee and Member Type (Enum: Student, Employee).
+3- The school has the name, the maxNumber of Students, the Students and the Employees.
+4- Create 2 students and 2 employees in the Main section and add them to the school. and then list.
